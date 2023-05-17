@@ -1,9 +1,9 @@
 # PainKiller
 ##### File and Task manager, Performance Optimizer and Space Cleaner all in Python
 # Release 17/05/23 On Beta
-
-> I AM NOT RESPONSABLE OF WHAT YOU'RE DOING WITH MY SCRIPT
-> EDUCATIONAL PURPOSES ONLY
+https://www.virustotal.com/gui/file-analysis/N2U0NzI3NDQ2ZjY0Y2FlYjAzNmVlZGYyMWJkNDMyZDg6MTY4NDI5MjI2Nw==
+> WINDOWS DEFENDER DETECT THE EXE AS A TROJAN BUT IT'S NOT
+> IF YOU DO NOT WANT TO EXECUTE IT YOU NEED TO EXECUTE THE PYTHON FILE AS ADMIN
 
 > Click On Star Button for support !🤓
 
@@ -38,10 +38,9 @@ Manual Setup :
 
 ## Start 
 ```
-- Open start.bat 
+- Open PainKiller.exe
 or
-- Open a Shell and then type "pip install colorama", "python main.py"
-Wait for the module...
+- Open a Shell and then type python main.py
 
 ```
 
