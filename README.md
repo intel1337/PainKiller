@@ -22,7 +22,19 @@ Performance Optimizer and Malware Signature detection using database are coming.
 
 # Config
 
+Linux :
+- bash setup.sh
 
+Windows :
+- Open setup.bat 
+
+MacOS X : 
+- bash setup.sh
+
+Manual Setup :
+- python -m pip install -–upgrade pip
+- pip install colorama
+- pip install psutil
 
 ## Start 
 ```
