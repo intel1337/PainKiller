@@ -12,7 +12,7 @@ https://www.virustotal.com/gui/file-analysis/N2U0NzI3NDQ2ZjY0Y2FlYjAzNmVlZGYyMWJ
 ![image](https://github.com/intel1337/PainKiller/assets/93615583/a23a4fda-c2bd-49d7-81a9-a6ddf63af6d8)
 
 # Concept 
-Best tool when your pc is infected with Viruses Rats or Trojans
+Python Tool to optimize and clean your hard drives 
 Performance Optimizer and Malware Signature detection using database are coming..
 
 - Process Killing
